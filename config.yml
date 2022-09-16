@@ -1,0 +1,4 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Hi this is my site
+theme: "PaperMod"
